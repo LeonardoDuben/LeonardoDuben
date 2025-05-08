@@ -5,6 +5,6 @@ Aqui no meu GitHub você encontra projetos voltados para back-end, automações 
 
 ### 💻 Tecnologias que uso:
 
-[![My Skills](https://skillicons.dev/icons?i=git,bootstrap,html,css,figma,docker,linux,notion,obsidian,php,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,bootstrap,html,css,figma,docker,linux,notion,obsidian,php,vim,python)](https://skillicons.dev)
 
 
