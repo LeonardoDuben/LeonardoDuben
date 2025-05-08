@@ -5,7 +5,8 @@ Aqui no meu GitHub você encontra projetos voltados para back-end, automações 
 
 ### 💻 Tecnologias que uso:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,html,css,figma,docker,linux,notion,obsidian,php,vim"/>
+  </a>
+</p>
