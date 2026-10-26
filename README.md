@@ -1,6 +1,6 @@
 # Bem-vindo
 
-Desenvolvedor Back-end & Modder.
+Desenvolvedor Back-end.
 
 [![Skills|217](https://skillicons.dev/icons?i=python,php,js,oracle)](https://skillicons.dev)
 
